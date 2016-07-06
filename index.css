@@ -1,5 +1,39 @@
 /** @define utilities */
 
+.u-p1 {
+  padding: .125rem !important;
+}
+
+.u-p2 {
+  padding: .25rem !important;
+}
+
+.u-p3 {
+  padding: .5rem !important;
+}
+
+.u-p4 {
+  padding: 1rem !important;
+}
+
+.u-p5 {
+  padding: 2rem !important;
+}
+
+.u-p6 {
+  padding: 4rem !important;
+}
+
+.u-p7 {
+  padding: 8rem !important;
+}
+
+.u-p8 {
+  padding: 16rem !important;
+}
+
+/** @define utilities */
+
 .u-pt1 {
   padding-top: .125rem !important;
 }
