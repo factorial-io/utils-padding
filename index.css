@@ -100,10 +100,6 @@
   padding-right: 16rem !important;
 }
 
-.u-prAuto {
-  padding-right: auto !important;
-}
-
 /** @define utilities */
 
 .u-pb1 {
@@ -170,10 +166,6 @@
 
 .u-pl8 {
   padding-left: 16rem !important;
-}
-
-.u-plAuto {
-  padding-left: auto !important;
 }
 
 /** @define utilities */
